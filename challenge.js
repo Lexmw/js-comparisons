@@ -1,5 +1,4 @@
-console.log("JavaScript Challenge - Open the console (F12) to see your progress!");
-
+'use strict'
 // --- Challenge: User Age Verification and Access Control ---
 // 
 // Description: 

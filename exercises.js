@@ -1,5 +1,4 @@
-console.log("JavaScript Exercises - Open the console (F12) to see your progress!");
-
+'use strict'
 // --- Exercise 1: Using == vs === ---
 // Description: Compare the number 5 and the string "5" using both == and ===.
 // 1. Use == to compare 5 and "5" and observe the result.
