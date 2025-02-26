@@ -1,4 +1,4 @@
-# **JavaScript Exercises – Comparisons, Truthy & Falsy, and Control Structures**  
+# **JavaScript Exercises – Comparisons, Truthy & Falsy, and Conditionals (if Statements)**  
 
 ## **What’s This About?**  
 This set of exercises will help you get comfortable with some essential JavaScript concepts. You’ll learn how to compare values, understand what makes something "truthy" or "falsy," and use `if` statements to control your code. By the end, you’ll even make a webpage respond to user actions!  
